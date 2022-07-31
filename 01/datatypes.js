@@ -27,4 +27,3 @@ let g3 = createGreeter('Evevning')
 
 g1('Chandan')
 g2('xyz')
-g3('morgan')
